@@ -10,8 +10,6 @@ https://panel.dattalive.com/8250/8250/playlist.m3u8
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sZ1yE4e.png" group-title="Argentina",Multivisión Federal (720p)
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1XgRcmd.png" group-title="Argentina",Telemax (720p)
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m
 #EXTINF:-1 tvg-id="PlutoTVCineAccion.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="USA",Pluto TV Cine Acción (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVCineComedia.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="USA",Pluto TV Cine Comédia (720p)
@@ -20,8 +18,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8099
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="DoctorWho.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" group-title="USA",Doctor Who (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="TopGear.us" tvg-country="US" tvg-language="Spanish" tvg-logo="hxxps://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="USA",Top Gear (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="RTP.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eTDc0wd.jpg" group-title="Bolivia",RTP (720p)
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLatinaCanal42.bo" tvg-country="BO" tvg-logo="https://ya.co.ve/3VJ" group-title="Bolivia",TV Latina Canal 42 (1080p)
@@ -32,8 +28,6 @@ https://video13.virtualtronics.com/streamer/canal2.m3u8
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 #EXTINF:-1 tvg-id="PH.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="Dominican Republic",PH (720p)
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="ParaísoDigital.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Ecuador",Paraíso Digital (720p)
-https://cloudvideo.servers10.com:8081/8106/index.m3u8
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-country="SV;PE" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png" group-title="El Salvador",WOW TV (720p)
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EDNTV.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Dq9we3E.png" group-title="Honduras",EDN TV (1080p)
@@ -42,8 +36,6 @@ https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 #EXTINF:-1 tvg-id="PopularTVCantabria.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwlTrtF.png" group-title="ESPANA",Popular TV Cantabria (512p)
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
-#EXTINF:-1 tvg-id="SolidariaTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/solidaria-tv.png" group-title="ESPANA",Solidaria TV (720p)
-https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-id="MyTimemovienetworkMexico.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="ENTRETENIMIENTO",MyTime movie network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimemovienetworkSpain.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="ENTRETENIMIENTO",MyTime movie network Spain (1080p)
@@ -52,13 +44,87 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
 #EXTINF:-1 tvg-id="101TVMalaga.es" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="NOTICIAS",101TV Malaga (1080p) [Not 24/7]
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="G- M. Accion FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" group-title="Movistar",G- M. Accion FHD
-http://katfil.com:8080/DREAMdisc1103new/13012023nw/9589
-#EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="O- M. Accion FHD" tvg-logo="" group-title="Movistar",O- M. Accion FHD
-http://katfil.com:8080/DREAMdisc1103new/13012023nw/16956
-#EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="O- M. Accion HD" tvg-logo="" group-title="Movistar",O- M. Accion HD
-http://katfil.com:8080/DREAMdisc1103new/13012023nw/16957
 #EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="O- M. Accion SD" tvg-logo="" group-title="Movistar",O- M. Accion SD
 http://katfil.com:8080/DREAMdisc1103new/13012023nw/16958
 #EXTINF:-1 tvg-id="TCM HD" tvg-name="O- TCM HD" tvg-logo="" group-title="Movistar",O- TCM HD
 http://katfil.com:8080/DREAMdisc1103new/13012023nw/16930
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="O- TCM HD" tvg-logo="" group-title="DistroTV",Top Cine
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/bf8de880-145c-4355-bc9e-7f5b09d5a161/3.m3u8
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="O- TCM HD" tvg-logo="" group-title="DistroTV",Cine Real
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/3d8b20ad-acb6-434d-b257-d86e0acf9505/0.m3u8
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="O- TCM HD" tvg-logo="" group-title="DistroTV",Cine Horrorfy
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8?c_producer=Horrorfy&dnt=0&app_bundle=undefined&app_name=DistroTV&app_store_url=undefined&did=d50f7d31-21b1-4665-b1fe-c51f40c27bea&app_domain=&device_make=&device_model=&coppa=0&ads.islive=1&ads.streamtype=live
+#EXTINF:-1 tvg-id="801mvstr.cl" tvg-name="CL• ZONA LATINA (HD) »1«" tvg-logo="https://i.postimg.cc/jqQQP9zH/Zona-Latina-2021.png" group-title="CHILE",CL• ZONA LATINA (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/70
+#EXTINF:-1 tvg-id="" tvg-name="PE• PANAMERICANA (HD) »1«" tvg-logo="https://i.postimg.cc/Fs9fzW5J/Panamericana-tv-svg.png" group-title="PERU",PE• PANAMERICANA (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/273
+#EXTINF:-1 tvg-id="" tvg-name="PE• LATINA TV (HD) »1«" tvg-logo="https://i.postimg.cc/CLyN2V8p/Logo-latina-2014.png" group-title="PERU",PE• LATINA TV (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/267
+#EXTINF:-1 tvg-id="" tvg-name="PE• RPP (HD) »1«" tvg-logo="http://quebuscasaqui.xyz:8080/images/45a893b8c7b67468e70db321a2e34d12.png" group-title="PERU",PE• RPP (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/277
+#EXTINF:-1 tvg-id="" tvg-name="COL• CARACOL (HD) »1«" tvg-logo="https://i.postimg.cc/ncW2MnXk/Logotipo-de-Caracol-Televisi-n-Corporativo.png" group-title="COLOMBIA",COL• CARACOL (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/331
+#EXTINF:-1 tvg-id="" tvg-name="COL• RCN (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="COLOMBIA",COL• RCN (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/343
+#EXTINF:-1 tvg-id="" tvg-name="COL• RCN NUESTRA TELE (HD)" tvg-logo="https://i.postimg.cc/kgrMntvv/RCN-Televisi-n-Nueva-Imagen.png" group-title="COLOMBIA",COL• RCN NUESTRA TELE (HD)
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/349
+#EXTINF:-1 tvg-id="" tvg-name="COL• RCN INTERNACIONAL (HD)" tvg-logo="https://i.postimg.cc/KjMXVJwS/Nuestra-Tele-Internacional2019.png" group-title="COLOMBIA",COL• RCN INTERNACIONAL (HD)
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/347
+#EXTINF:-1 tvg-id="" tvg-name="COL• RCN NOVELAS (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RCN_Novelas.png" group-title="COLOMBIA",COL• RCN NOVELAS (HD)
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/348
+#EXTINF:-1 tvg-id="" tvg-name="COL• RCN INTERNACIONAL (HD)" tvg-logo="https://i.postimg.cc/KjMXVJwS/Nuestra-Tele-Internacional2019.png" group-title="COLOMBIA",COL• RCN INTERNACIONAL (HD)
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/347
+#EXTINF:-1 tvg-id="" tvg-name="COL• RCN NOVELAS (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RCN_Novelas.png" group-title="COLOMBIA",COL• RCN NOVELAS (HD)
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/348
+#EXTINF:-1 tvg-id="" tvg-name="COL• NTN 24 (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="COLOMBIA",COL• NTN 24 (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/339
+#EXTINF:-1 tvg-id="" tvg-name="COL• PASIONES (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="COLOMBIA",COL• PASIONES (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/341
+#EXTINF:-1 tvg-id="" tvg-name="COL• CANAL 1 (HD)" tvg-logo="https://i.postimg.cc/ryKfSfvg/Canal-1-colombia.png" group-title="COLOMBIA",COL• CANAL 1 (HD)
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/330
+#EXTINF:-1 tvg-id="" tvg-name="COL• CITY TV (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Citytv_old_logo.svg/1200px-Citytv_old_logo.svg.png" group-title="COLOMBIA",COL• CITY TV (HD)
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/337
+#EXTINF:-1 tvg-id="507dtv.co" tvg-name="C/S• CINE CANAL (HD) »1«" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="CINE & SERIES",C/S• CINE CANAL (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/112
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX (HD) »2«" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="CINE & SERIES",C/S• CINEMAX (HD) »2«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/119
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="C/S• FX (HD) »1«" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg" group-title="CINE & SERIES",C/S• FX (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/124
+#EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="C/S• HBO FAMILY (HD) »1«" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="CINE & SERIES",C/S• HBO FAMILY (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/135
+#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO (HD) »2«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="CINE & SERIES",C/S• HBO (HD) »2«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/139
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="C/S• HBO PLUS (HD) »2«" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="CINE & SERIES",C/S• HBO PLUS (HD) »2«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/144
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="C/S• HBO XTREME (HD) »1«" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="CINE & SERIES",C/S• HBO XTREME (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/156
+#EXTINF:-1 tvg-id="202dtv.co" tvg-name="C/S• STAR CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="CINE & SERIES",C/S• STAR CHANNEL (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/160
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="C/S• TNT (HD) »1«" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="CINE & SERIES",C/S• TNT (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/166
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="C/S• TNT SERIES (HD) »1«" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="CINE & SERIES",C/S• TNT SERIES (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/170
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX (HD) »1«" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="CINE & SERIES",C/S• CINEMAX (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/173
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX ACTION (HD) »1«" tvg-logo="https://i.ibb.co/5nd7bZP/CINEMAXACTION.jpg" group-title="CINE & SERIES",C/S• CINEMAX ACTION (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/177
+#EXTINF:-1 tvg-id="" tvg-name="C/S• CINEMAX EAST (HD)" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg" group-title="CINE & SERIES",C/S• CINEMAX EAST (HD)
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/178
+#EXTINF:-1 tvg-id="" tvg-name="C/S• PARAMOUNT CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="CINE & SERIES",C/S• PARAMOUNT CHANNEL (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/191
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SHOWTIME EAST (HD) »1«" tvg-logo="https://i.ibb.co/D8Kkz3d/SHOWTIMEEAST.jpg" group-title="CINE & SERIES",C/S• SHOWTIME EAST (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/196
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SONY (HD) »1«" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg" group-title="CINE & SERIES",C/S• SONY (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/199
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SPACE (HD) »2«" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="CINE & SERIES",C/S• SPACE (HD) »2«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/203
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ CINEMA (HD)" tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="CINE & SERIES",C/S• STARZ CINEMA (HD)
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/206
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ EDGE (HD)" tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="CINE & SERIES",C/S• STARZ EDGE (HD)
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/209
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE SUSPENSE (HD)" tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="CINE & SERIES",C/S• STARZ ENCORE SUSPENSE (HD)
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/214
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE WESTERN (HD)" tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="CINE & SERIES",C/S• STARZ ENCORE WESTERN (HD)
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/215
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STUDIO UNIVERSAL (HD) »1«" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="CINE & SERIES",C/S• STUDIO UNIVERSAL (HD) »1«
+http://ultrapremium.cloud:8080/95yega65se23ma93/m68du25se78m/218
