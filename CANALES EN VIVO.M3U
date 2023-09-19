@@ -126,9 +126,31 @@ http://ufospeeds.com:2095/247Vod/6sBfMnV9Nkxz/39439
 http://ufospeeds.com:2095/247Vod/6sBfMnV9Nkxz/39433
 #EXTINF:-1 tvg-id="" tvg-name="CIN54: HBO" tvg-logo="https://image.xmltv.guide/icon/1004005.png" group-title="CINEMEX",CIN54: HBO
 http://ufospeeds.com:2095/247Vod/6sBfMnV9Nkxz/39421
-#EXTINF:-1 tvg-id="" tvg-name="CIN15: AXN" tvg-logo="https://www.fulltv.com.ar/images/tv/axn-3056.png" group-title="CINEMEX",CIN15: AXN
-http://ufospeeds.com:2095/247Vod/6sBfMnV9Nkxz/39382
 #EXTINF:-1 tvg-id="" tvg-name="CIN48: FX" tvg-logo="https://i.ytimg.com/vi/PjaD7ZOVoXg/maxresdefault.jpg" group-title="CINEMEX",CIN48: FX
 http://ufospeeds.com:2095/247Vod/6sBfMnV9Nkxz/39415
 #EXTINF:-1 tvg-id="" tvg-name="CIN27: CINEMAX" tvg-logo="https://i.ytimg.com/vi/AJ0-cwuIhx0/maxresdefault.jpg" group-title="CINEMEX",CIN27: CINEMAX
 http://ufospeeds.com:2095/247Vod/6sBfMnV9Nkxz/39394
+#EXTINF:-1 tvg-id="" tvg-name="CIN15: AXN" tvg-logo="https://www.fulltv.com.ar/images/tv/axn-3056.png" group-title="CINEMEX",CIN15: AXN
+http://ufospeeds.com:2095/247Vod/6sBfMnV9Nkxz/39382
+#EXTINF:-1,Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1,Xtrema Cartoons (360p)
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1,Xtrema Cine Acción (268p)
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1,Xtrema Cine Suspenso (360p)
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:-1,Xtrema Cine Terror (270p)
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1,Xtrema Cine Family (274p)
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1,Xtrema Cine Comedy (344p)
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1,Xtrema Series (360p)
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+#EXTINF:-1,Xtrema Retro Series (360p)
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:-1,TeleMix
+https://panel.dattalive.com/8068/8068/playlist.m3u8
+#EXTINF:-1, Orbit TV | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
