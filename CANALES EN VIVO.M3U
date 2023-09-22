@@ -29,7 +29,7 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/play
 #EXTINF:-1 tvg-id="PH.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="Dominican Republic",PH (720p)
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-country="SV;PE" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png" group-title="El Salvador",WOW TV (720p)
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="EDNTV.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Dq9we3E.png" group-title="Honduras",EDN TV (1080p)
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/IDENTIDADTVOFICIAL/picture?width=320&height=320" group-title="Peru",Identidad TV
@@ -153,4 +153,10 @@ https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 #EXTINF:-1,TeleMix
 https://panel.dattalive.com/8068/8068/playlist.m3u8
 #EXTINF:-1, Orbit TV | DO
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+http://45.55.127.106/live/unicanal.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1,Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 tvg-id="estrellas-de-accion" tvg-logo="http://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="Películas", Estrellas de Acción
+http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6f3c0770-eb66-11ed-a187-e56a6a68d186&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1a9d642d-715d-4b14-b202-cb84f1308550&userId=&serverSideAds=true
+#EXTINF:-1, Power tv HD
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL&PlaylistM3UCL
